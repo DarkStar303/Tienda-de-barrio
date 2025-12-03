@@ -56,7 +56,7 @@
                     Width="106"
                     Height="36"
                     FontSize="13"
-                    Padding="8,0"/>
+                    Padding="8,0" Click="Crear_Click"/>
         </StackPanel>
 
         <!-- Panel de contenido con sombra -->

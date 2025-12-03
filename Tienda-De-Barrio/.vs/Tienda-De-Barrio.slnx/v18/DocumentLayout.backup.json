@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:Administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:Venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|c:\\users\\alumno\\escritorio\\progra2\\tdb\\tienda-de-barrio\\venta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\venta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:venta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:Administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\crearcuenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Venta.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml",
               "RelativeDocumentMoniker": "Venta.xaml",
@@ -64,31 +68,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CrearCuenta.xaml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml",
-              "RelativeDocumentMoniker": "CrearCuenta.xaml",
-              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml",
-              "RelativeToolTip": "CrearCuenta.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T14:52:32.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Venta.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml.cs",
-              "RelativeDocumentMoniker": "Venta.xaml.cs",
-              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml.cs",
-              "RelativeToolTip": "Venta.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvx4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:42:54.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "DetalleVenta.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\DetalleVenta.xaml.cs",
               "RelativeDocumentMoniker": "DetalleVenta.xaml.cs",
@@ -96,20 +75,18 @@
               "RelativeToolTip": "DetalleVenta.xaml.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T14:37:40.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:37:40.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DetalleVenta.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\DetalleVenta.xaml",
               "RelativeDocumentMoniker": "DetalleVenta.xaml",
               "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\DetalleVenta.xaml",
               "RelativeToolTip": "DetalleVenta.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-03T14:35:12.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T14:35:12.974Z"
             },
             {
               "$type": "Document",
@@ -119,47 +96,78 @@
               "RelativeDocumentMoniker": "Administracion.xaml.cs",
               "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml.cs",
               "RelativeToolTip": "Administracion.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T22:20:54.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T22:20:54.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Administracion.xaml",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml",
-              "RelativeDocumentMoniker": "Administracion.xaml",
-              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml",
-              "RelativeToolTip": "Administracion.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-02T22:19:10.835Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "CrearCuenta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml.cs",
+              "RelativeDocumentMoniker": "CrearCuenta.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml.cs",
+              "RelativeToolTip": "CrearCuenta.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T15:18:48.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-02T19:32:37.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:32:37.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "CrearCuenta.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml",
+              "RelativeDocumentMoniker": "CrearCuenta.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\CrearCuenta.xaml",
+              "RelativeToolTip": "CrearCuenta.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-03T14:52:32.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administracion.xaml",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml",
+              "RelativeDocumentMoniker": "Administracion.xaml",
+              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Administracion.xaml",
+              "RelativeToolTip": "Administracion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-02T22:19:10.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venta.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml.cs",
+              "RelativeDocumentMoniker": "Venta.xaml.cs",
+              "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\Venta.xaml.cs",
+              "RelativeToolTip": "Venta.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvx4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T14:42:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Alumno\\Escritorio\\progra2\\tdb\\Tienda-de-barrio\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:32:35.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:32:35.428Z"
             }
           ]
         }

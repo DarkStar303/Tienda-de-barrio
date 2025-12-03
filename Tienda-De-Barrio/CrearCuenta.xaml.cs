@@ -23,5 +23,13 @@ namespace Tienda_De_Barrio
         {
             InitializeComponent();
         }
+
+        private void btnSiguiente_Click(object sender, RoutedEventArgs e)
+        {
+            Administracion ad= new Administracion ();
+            ad.Show();
+            this.Close();
+
+        }
     }
 }

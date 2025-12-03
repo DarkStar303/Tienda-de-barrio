@@ -36,5 +36,12 @@ namespace Tienda_De_Barrio
         {
             this.Close();
         }
+
+        private void Crear_Click(object sender, RoutedEventArgs e)
+        {
+            CrearCuenta cc= new CrearCuenta();
+            cc.Show();
+            this.Close();
+        }
     }
 }
