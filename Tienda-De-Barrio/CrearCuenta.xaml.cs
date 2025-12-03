@@ -15,20 +15,13 @@ using System.Windows.Shapes;
 namespace Tienda_De_Barrio
 {
     /// <summary>
-    /// Lógica de interacción para Venta.xaml
+    /// Lógica de interacción para CrearCuenta.xaml
     /// </summary>
-    public partial class Venta : Window
+    public partial class CrearCuenta : Window
     {
-        public Venta()
+        public CrearCuenta()
         {
             InitializeComponent();
-        }
-
-        private void Dettale_Click(object sender, RoutedEventArgs e)
-        {
-            DetalleVenta dv= new DetalleVenta();
-            this.Close();
-            dv.Show();
         }
     }
 }

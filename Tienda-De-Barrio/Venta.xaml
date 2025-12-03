@@ -258,6 +258,6 @@
                 HorizontalAlignment="Right"
                 VerticalAlignment="Bottom"
                 Width="200"
-                Height="36"/>
+                Height="36" Click="Dettale_Click"/>
     </Grid>
 </Window>

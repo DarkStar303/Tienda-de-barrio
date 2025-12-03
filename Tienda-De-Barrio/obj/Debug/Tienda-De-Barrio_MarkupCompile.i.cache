@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\
 Tienda_De_Barrio
 none
 false
 DEBUG;TRACE
-G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\App.xaml
-31150301968
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\App.xaml
+5-880327324
 
-8-127982169
+10871174519
 13-38814620
-Administracion.xaml;MainWindow.xaml;Venta.xaml;
+Administracion.xaml;CrearCuenta.xaml;DetalleVenta.xaml;MainWindow.xaml;Venta.xaml;
 
-False
+True
 
