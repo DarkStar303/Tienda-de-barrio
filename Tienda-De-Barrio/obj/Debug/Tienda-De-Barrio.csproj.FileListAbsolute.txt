@@ -40,3 +40,7 @@ C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barr
 C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.pdb
 C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\CrearCuenta.g.cs
 C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\CrearCuenta.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\NuevoProducto.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\NuevoProducto.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\AumentarStock.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\AumentarStock.g.cs

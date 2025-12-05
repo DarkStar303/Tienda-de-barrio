@@ -34,6 +34,8 @@ namespace Tienda_De_Barrio
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            NuevoProducto np =new NuevoProducto();
+            np.Show();
             this.Close();
         }
 
@@ -43,5 +45,6 @@ namespace Tienda_De_Barrio
             cc.Show();
             this.Close();
         }
+
     }
 }

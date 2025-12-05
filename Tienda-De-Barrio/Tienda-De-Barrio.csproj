@@ -55,16 +55,26 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="AumentarStock.xaml.cs">
+      <DependentUpon>AumentarStock.xaml</DependentUpon>
+    </Compile>
     <Compile Include="CrearCuenta.xaml.cs">
       <DependentUpon>CrearCuenta.xaml</DependentUpon>
     </Compile>
     <Compile Include="DetalleVenta.xaml.cs">
       <DependentUpon>DetalleVenta.xaml</DependentUpon>
     </Compile>
+    <Compile Include="NuevoProducto.xaml.cs">
+      <DependentUpon>NuevoProducto.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Venta.xaml.cs">
       <DependentUpon>Venta.xaml</DependentUpon>
     </Compile>
     <Page Include="Administracion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AumentarStock.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -91,6 +101,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="NuevoProducto.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Venta.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
