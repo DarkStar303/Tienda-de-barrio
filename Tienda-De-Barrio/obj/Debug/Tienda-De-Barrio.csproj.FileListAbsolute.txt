@@ -17,3 +17,38 @@ G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\Administra
 G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\Administracion.baml
 G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\Venta.g.cs
 G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\Venta.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\bin\Debug\Tienda-De-Barrio.exe.config
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\bin\Debug\Tienda-De-Barrio.exe
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\bin\Debug\Tienda-De-Barrio.pdb
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.csproj.AssemblyReference.cache
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Venta.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Administracion.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\DetalleVenta.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\MainWindow.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Venta.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\App.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio_MarkupCompile.cache
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio_MarkupCompile.lref
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Administracion.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\MainWindow.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\DetalleVenta.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.g.resources
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda_De_Barrio.Properties.Resources.resources
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.csproj.GenerateResource.cache
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.exe
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\Tienda-De-Barrio.pdb
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\CrearCuenta.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\CrearCuenta.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\NuevoProducto.g.cs
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\NuevoProducto.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\AumentarStock.baml
+C:\Users\Alumno\Escritorio\progra2\tdb\Tienda-de-barrio\obj\Debug\AumentarStock.g.cs
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\AumentarStock.baml
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\DetalleVenta.baml
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\NuevoProducto.baml
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\AumentarStock.g.cs
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\CrearCuenta.g.cs
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\DetalleVenta.g.cs
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\NuevoProducto.g.cs
+G:\MATEOINSTALL\SEGUNDO SEMESTRE\P2\tienda\Tienda-De-Barrio\obj\Debug\CrearCuenta.baml

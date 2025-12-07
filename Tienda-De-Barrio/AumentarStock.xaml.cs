@@ -15,20 +15,23 @@ using System.Windows.Shapes;
 namespace Tienda_De_Barrio
 {
     /// <summary>
-    /// Lógica de interacción para Venta.xaml
+    /// Lógica de interacción para AumentarStock.xaml
     /// </summary>
-    public partial class Venta : Window
+    public partial class AumentarStock : Window
     {
-        public Venta()
+        public AumentarStock()
         {
             InitializeComponent();
         }
 
-        private void Dettale_Click(object sender, RoutedEventArgs e)
+        private void Cancelar_Click(object sender, RoutedEventArgs e)
         {
-            DetalleVenta dv= new DetalleVenta();
-            this.Close();
-            dv.Show();
+
+        }
+
+        private void Actualizar_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

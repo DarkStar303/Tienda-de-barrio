@@ -16,7 +16,7 @@
                     VerticalAlignment="Top"
                     Margin="0,30,0,0">
 
-            <Button Content="Aumentar producto"
+            <Button Content="Aumentar stock"
                     Background="#2D2D2D"
                     Foreground="#E0E0E0"
                     BorderBrush="#444444"
@@ -56,7 +56,7 @@
                     Width="106"
                     Height="36"
                     FontSize="13"
-                    Padding="8,0"/>
+                    Padding="8,0" Click="Crear_Click"/>
         </StackPanel>
 
         <!-- Panel de contenido con sombra -->

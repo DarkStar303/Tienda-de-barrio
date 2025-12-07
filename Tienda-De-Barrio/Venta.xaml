@@ -10,9 +10,9 @@
     <Window.Resources>
         <!-- Sombra suave para tarjetas -->
         <DropShadowEffect x:Key="SombraTarjeta"
-                      BlurRadius="14"
-                      ShadowDepth="0"
-                      Color="#33000000" />
+                      BlurRadius="20"
+                      ShadowDepth="20"
+                      Color="Green" />
 
         <!-- Estilo básico para botón (opcional, pero bonito) -->
         <Style x:Key="BotonPrimario" TargetType="Button">
@@ -258,6 +258,6 @@
                 HorizontalAlignment="Right"
                 VerticalAlignment="Bottom"
                 Width="200"
-                Height="36"/>
+                Height="36" Click="Dettale_Click"/>
     </Grid>
 </Window>
