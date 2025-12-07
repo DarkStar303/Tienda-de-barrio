@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Venta.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-02T22:36:26.801Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml",
               "RelativeToolTip": "Administracion.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-02T22:19:10.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T22:19:10.835Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-02T19:32:37.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:32:37.091Z"
             },
             {
               "$type": "Document",
@@ -92,8 +89,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T19:32:35.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-02T19:32:35.428Z"
             }
           ]
         }
