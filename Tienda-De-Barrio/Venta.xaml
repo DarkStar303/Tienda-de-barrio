@@ -51,206 +51,49 @@
                    Margin="0,0,0,460"/>
 
         <!-- Panel de productos -->
+        <!-- Panel de productos DINÁMICO -->
         <ScrollViewer VerticalScrollBarVisibility="Disabled"
-                      HorizontalScrollBarVisibility="Auto"
-                      Margin="0,40,0,80">
-            <UniformGrid Columns="3" MinWidth="760">
-                <!-- Tarjeta 1: Pil Frut -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/pilfrut.png" Stretch="Uniform" Margin="6"/>
+              HorizontalScrollBarVisibility="Auto"
+              Margin="0,40,0,80">
+            <ItemsControl x:Name="listaProductos" Margin="8">
+                <ItemsControl.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <UniformGrid Columns="3" MinWidth="760"/>
+                    </ItemsPanelTemplate>
+                </ItemsControl.ItemsPanel>
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="#2A2A2A"
+                CornerRadius="10"
+                Padding="12"
+                Margin="8">
+                            <StackPanel>
+                                <Border Background="White"
+                                    CornerRadius="6"
+                                    Width="100" Height="100"
+                                    HorizontalAlignment="Center">
+                                    <Image Source="{Binding ImagenSource}" 
+                                        Stretch="Uniform" Margin="6"/>
+                                </Border>
+                                <TextBlock Text="{Binding Nombre}" 
+                           Foreground="#E0E0E0" 
+                           HorizontalAlignment="Center" 
+                           Margin="0,6,0,4"/>
+                                <TextBox x:Name="txtCantidad"
+                         Text="1"
+                         HorizontalAlignment="Center"
+                         Width="60"
+                         Height="26"
+                         Background="#333333"
+                         Foreground="White"
+                         BorderBrush="#555555"
+                         BorderThickness="1"
+                         TextAlignment="Center"/>
+                            </StackPanel>
                         </Border>
-                        <TextBlock Text="Pil Frut" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 2: Leche Pil -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/LechePil.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Leche Pil" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 3: Jabón Nolivar -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/JabonNolivar.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Jabón Bolivar" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 4: Fósforos Parana -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/FosforosParana.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Fósforos Parana" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 5: Coca Cola -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/coca_cola.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Coca Cola" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 6: Chicle -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/chicle.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Chicle" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-
-                <!-- Tarjeta 7: Bon-Bon-Bum -->
-                <Border Background="#2A2A2A"
-                        CornerRadius="10"
-                        Padding="12"
-                        Margin="8">
-                    <StackPanel>
-                        <Border Background="White"
-                                CornerRadius="6"
-                                Width="100" Height="100"
-                                HorizontalAlignment="Center">
-                            <Image Source="/ProductosImg/Bon-Bon-Bum.png" Stretch="Uniform" Margin="6"/>
-                        </Border>
-                        <TextBlock Text="Bon-Bon-Bum" 
-                                   Foreground="#E0E0E0" 
-                                   HorizontalAlignment="Center" 
-                                   Margin="0,6,0,4"/>
-                        <TextBox Text="1"
-                                 HorizontalAlignment="Center"
-                                 Width="60"
-                                 Height="26"
-                                 Background="#333333"
-                                 Foreground="White"
-                                 BorderBrush="#555555"
-                                 BorderThickness="1"
-                                 TextAlignment="Center"/>
-                    </StackPanel>
-                </Border>
-            </UniformGrid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
         </ScrollViewer>
 
         <!-- Botón inferior -->

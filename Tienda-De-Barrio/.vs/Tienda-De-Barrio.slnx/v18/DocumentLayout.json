@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\aumentarstock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:aumentarstock.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\aumentarstock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:aumentarstock.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:administracion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,16 +19,56 @@
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:administracion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\tiendadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:tiendadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\venta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:venta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:detalleventa.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\nuevoproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:nuevoproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:venta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\nuevoproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:nuevoproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\crearcuenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|g:\\mateoinstall\\segundo semestre\\p2\\tienda\\tienda-de-barrio\\crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3A2BB040-B31C-4574-A2BE-98ABFEE98F1A}|Tienda-De-Barrio.csproj|solutionrelative:crearcuenta.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +82,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Venta.xaml",
               "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Venta.xaml",
               "RelativeDocumentMoniker": "Venta.xaml",
@@ -46,11 +90,202 @@
               "RelativeToolTip": "Venta.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-07T01:22:16.533Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AumentarStock.xaml",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\AumentarStock.xaml",
+              "RelativeDocumentMoniker": "AumentarStock.xaml",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\AumentarStock.xaml",
+              "RelativeToolTip": "AumentarStock.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T22:31:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:19:04.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TiendaData.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\TiendaData.cs",
+              "RelativeDocumentMoniker": "TiendaData.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\TiendaData.cs",
+              "RelativeToolTip": "TiendaData.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAgwMwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T13:44:40.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Producto.cs",
+              "RelativeDocumentMoniker": "Producto.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Producto.cs",
+              "RelativeToolTip": "Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:21:13.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Administracion.xaml",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml",
+              "RelativeDocumentMoniker": "Administracion.xaml",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml",
+              "RelativeToolTip": "Administracion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T01:22:16.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AumentarStock.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\AumentarStock.xaml.cs",
+              "RelativeDocumentMoniker": "AumentarStock.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\AumentarStock.xaml.cs",
+              "RelativeToolTip": "AumentarStock.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T22:34:43.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administracion.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml.cs",
+              "RelativeDocumentMoniker": "Administracion.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml.cs",
+              "RelativeToolTip": "Administracion.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwBgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:22:16.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleVenta.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\DetalleVenta.xaml.cs",
+              "RelativeDocumentMoniker": "DetalleVenta.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\DetalleVenta.xaml.cs",
+              "RelativeToolTip": "DetalleVenta.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T19:13:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Venta.xaml.cs",
+              "RelativeDocumentMoniker": "Venta.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Venta.xaml.cs",
+              "RelativeToolTip": "Venta.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:53:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleVenta.xaml",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\DetalleVenta.xaml",
+              "RelativeDocumentMoniker": "DetalleVenta.xaml",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\DetalleVenta.xaml",
+              "RelativeToolTip": "DetalleVenta.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T19:12:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T01:22:16.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T01:22:16.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrearCuenta.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\CrearCuenta.xaml.cs",
+              "RelativeDocumentMoniker": "CrearCuenta.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\CrearCuenta.xaml.cs",
+              "RelativeToolTip": "CrearCuenta.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T16:50:13.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NuevoProducto.xaml.cs",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\NuevoProducto.xaml.cs",
+              "RelativeDocumentMoniker": "NuevoProducto.xaml.cs",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\NuevoProducto.xaml.cs",
+              "RelativeToolTip": "NuevoProducto.xaml.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwG0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T18:12:17.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NuevoProducto.xaml",
+              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\NuevoProducto.xaml",
+              "RelativeDocumentMoniker": "NuevoProducto.xaml",
+              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\NuevoProducto.xaml",
+              "RelativeToolTip": "NuevoProducto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-07T18:12:08.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "CrearCuenta.xaml",
               "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\CrearCuenta.xaml",
               "RelativeDocumentMoniker": "CrearCuenta.xaml",
@@ -59,53 +294,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-07T01:22:58.516Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Administracion.xaml.cs",
-              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml.cs",
-              "RelativeDocumentMoniker": "Administracion.xaml.cs",
-              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml.cs",
-              "RelativeToolTip": "Administracion.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T01:22:16.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Administracion.xaml",
-              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml",
-              "RelativeDocumentMoniker": "Administracion.xaml",
-              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\Administracion.xaml",
-              "RelativeToolTip": "Administracion.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-07T01:22:16.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-07T01:22:16.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "G:\\MATEOINSTALL\\SEGUNDO SEMESTRE\\P2\\tienda\\Tienda-De-Barrio\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-07T01:22:16.737Z"
             }
           ]
         }

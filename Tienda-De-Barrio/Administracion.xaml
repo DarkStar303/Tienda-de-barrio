@@ -24,7 +24,7 @@
                     Width="140"
                     Height="36"
                     FontSize="13"
-                    Padding="8,0"/>
+                    Padding="8,0" Click="Button_Click_1"/>
 
             <Button Content="Nuevo producto"
                     Background="#2D2D2D"
